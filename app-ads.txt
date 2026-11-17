@@ -1,0 +1,5 @@
+# app-ads.txt for PAPO'City: Zombie Car Survival (Robosoft)
+# Upload to the ROOT of the developer website listed in Play Console, e.g. https://your-domain.com/app-ads.txt
+# Replace pub-XXXXXXXXXXXXXXXX with your AdMob publisher ID (AdMob -> Settings -> Account information).
+# Not needed while the game uses Google's test ads; needed before real ads go live.
+google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
